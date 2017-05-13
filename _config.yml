@@ -1,0 +1,32 @@
+name: XueYan's Blog
+email: xueyan.xueyan@gmail.com
+author: Yan Xue
+url: https://qimiaoxue.github.io/
+resume_site: https://qimiaoxue.github.io/Resume.io/
+github: https://github.com/qimiaoxue/
+baseurl: ""
+description: 
+meta_description: 
+motto: 
+banner: 
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: qimiaoxue 
+highlighter: Pygments
+
+# Build settings
+markdown: kramdown
+baidu_analysis: 
+
+FB:
+  comments :
+    provider : duoshuo
+    duoshuo:
+        short_name : luoyan35714
+    disqus :
+        short_name : freudkang
