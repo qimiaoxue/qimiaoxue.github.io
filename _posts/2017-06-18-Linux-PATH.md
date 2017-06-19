@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Linux $ PATH 
-date:   2017-06-14 10:30:52 +0800
+date:   2017-06-17 10:30:52 +0800
 categories: python Linux PATH 
 tag: python 
 ---
